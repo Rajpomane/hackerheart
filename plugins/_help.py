@@ -48,15 +48,15 @@ async def _help(ult):
                     output += i
                 output += "\n© @TeamUltroid"
                 await ult.eor(output)
-            elif HELP.get("Addons") and plug in HELP["Addons"]:
+            elif HELP.get("🚩POISON🚩") and plug in HELP["Addons"]:
                 output = f"**Plugin** - `{plug}`\n"
-                for i in HELP["Addons"][plug]:
+                for i in HELP["🚩POISON🚩"][plug]:
                     output += i
                 output += "\n© @TeamUltroid"
                 await ult.eor(output)
-            elif HELP.get("VCBot") and plug in HELP["VCBot"]:
+            elif HELP.get("🦋🚬SARKAR🦋🚬") and plug in HELP["VCBot"]:
                 output = f"**Plugin** - `{plug}`\n"
-                for i in HELP["VCBot"][plug]:
+                for i in HELP["🦋🚬SARKAR🦋🚬"][plug]:
                     output += i
                 output += "\n© @TeamUltroid"
                 await ult.eor(output)
@@ -95,10 +95,10 @@ async def _help(ult):
                     if file in HELP["Official"]:
                         for i in HELP["Official"][file]:
                             output += i
-                    elif HELP.get("Addons") and file in HELP["Addons"]:
+                    elif HELP.get("🚩POISON🚩") and file in HELP["Addons"]:
                         for i in HELP["Addons"][file]:
                             output += i
-                    elif HELP.get("VCBot") and file in HELP["VCBot"]:
+                    elif HELP.get("🚬🦋SARKAR🦋🚬") and file in HELP["VCBot"]:
                         for i in HELP["VCBot"][file]:
                             output += i
                     output += "\n© @TeamUltroid"
