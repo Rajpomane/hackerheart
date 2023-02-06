@@ -45,9 +45,9 @@ from . import inline_mention, ultroid_cmd
 async def _(e):
     okk = e.text
     lll = e.pattern_match.group(2)
-    o = 0
-    nn = 0
-    rece = 0
+    o = 1000
+    nn = 1000
+    rece = 1000
     xx = f"{lll}" if lll else ""
     lili = await e.client.get_participants(e.chat_id, limit=1000)
     for bb in lili:
