@@ -8,7 +8,7 @@
 ✘ Commands Available -
 
 • `{i}tagall`
-    Tag Top 100 Members of chat.
+    Tag Top 1000 Members of chat.
 
 • `{i}tagadmins`
     Tag Admins of that chat.
@@ -49,7 +49,7 @@ async def _(e):
     nn = 0
     rece = 0
     xx = f"{lll}" if lll else ""
-    lili = await e.client.get_participants(e.chat_id, limit=99)
+    lili = await e.client.get_participants(e.chat_id, limit=1000)
     for bb in lili:
         x = bb.status
         y = bb.participant
