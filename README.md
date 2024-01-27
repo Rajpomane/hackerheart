@@ -3,7 +3,7 @@
 </p>
 </p>
 <h1 align="center">
-  <b>Ultroid - poison</b>
+  <b>dangerous - poison</b>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
