@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="hindunagari Logo">
+  <img src="https://telegra.ph//file/9a342972a6b78db65123b.jpg">
+</p>
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
